@@ -42,6 +42,8 @@ Learning Focus: Music Interfaces, Product Design, Computer Aided Design, Laser C
 
 Media: MIDI Controller, Physical Interface, Object
 
-Software: C++
+Software: OnShape, C++
+
+Hardware: Laser Cutter, 3D Printer, Machine Shop Tools, Teensy
 
 Date: March 2016
