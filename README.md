@@ -26,7 +26,7 @@ For an assignment on fabrication methods, I designed and built an analog MIDI co
 
 Dimensions: 220mm x 140mm x 45mm
 
-Weight: About 400g
+Weight: About 250g
 
 Analog Resolution: 1024 levels
 
