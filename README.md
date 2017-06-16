@@ -1,10 +1,10 @@
 # Mixer
 
-![](Mixer1.jpg)
-
 For an assignment on fabrication methods, I designed and built an analog MIDI controller with 8 knobs and 8 sliders, using Computer Aided Design, laser cutting, and 3D printing.
 
 [Read the Writeup](https://docs.google.com/document/d/17EeCE5cnWYPYfy-mMV8Jlubh-wPYbIRkHEhIJLNOey4/edit)
+
+![](Mixer1.jpg)
 
 ![](Mixer2.gif)
 
